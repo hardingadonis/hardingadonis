@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Harding Adonis
+- I like games and coding --> I'm game dev 🤣
