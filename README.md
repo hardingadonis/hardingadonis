@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Harding Adonis
-- I like games and coding --> I'm game dev 🤣
+# Hello! I'm Harding Adonis <img src="https://github.com/hardingadonis/hardingadonis/blob/master/imgs/handwave.gif" width="25">
