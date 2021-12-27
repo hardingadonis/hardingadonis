@@ -1,1 +1,1 @@
-# Hello! I'm Harding Adonis <img src="https://github.com/hardingadonis/hardingadonis/blob/master/imgs/handwave.gif" width="25">
+# Hello! I'm Harding Adonis <img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/handwave.gif" width="25">
