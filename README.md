@@ -7,7 +7,7 @@
 
 ## My Github
 
-![Harding Adonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=radical)
+![Harding Adonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 ## Contact with me
 
