@@ -15,3 +15,6 @@
 <a href="https://facebook.com/adonis.harding" target="_blank" rel="noopener noreferrer"><img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/facebook-icon.png" width="50" /></a>
 &nbsp; <a href="https://www.youtube.com/c/hardingadonis" target="_blank" rel="noopener noreferrer"><img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/youtube-icon.png" width="50" /></a>
 </p>
+
+## 💸 Donate me
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://hardingadonis.github.io/sponsor/)
