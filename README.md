@@ -1,4 +1,4 @@
-# Hello! I'm Harding Adonis <img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/handwave.gif" width="25">
+# Hello! I'm Minh Vương <img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/handwave.gif" width="25">
 
 ## 📌 About me
 - 🎓 I'm just a normal student at FPT University
@@ -7,7 +7,7 @@
 
 ## 📖 My Github
 
-![Harding Adonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Minh Vương's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 ## 🖐️ Contact with me
 
