@@ -1,0 +1,31 @@
+name: Main
+
+on:
+  push
+  
+  schedule: # every day
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  generate_snk:
+    name: Generates a snake game
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - name: Generates snake
+      uses: Platane/snk@v2
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/snake-github-profile.gif?palette=github-dark&color_snake=#439a97&color_dots=#ece8ee,#dad0de,#c7b9cd,#b5a1bd,#a28aac
+    
+    - name: Push the output
+      uses: crazy-max/ghaction-github-pages@v3.1.0
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
