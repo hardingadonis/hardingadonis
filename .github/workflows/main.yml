@@ -2,6 +2,7 @@ name: Main
 
 on:
   push:
+    branches: main
   
   schedule:
     - cron: "0 0 * * *"
@@ -16,11 +17,11 @@ jobs:
 
     steps:
     - name: Generates snake
-      uses: Platane/snk@v2
+      uses: Platane/snk@v2.1.0
       with:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
-          dist/snake-github-profile.gif?palette=github-dark&color_snake=#439a97&color_dots=#ece8ee,#dad0de,#c7b9cd,#b5a1bd,#a28aac
+          dist/snake-github-profile.svg?palette=github-dark&color_snake=#439a97&color_dots=#ece8ee,#dad0de,#c7b9cd,#b5a1bd,#a28aac
     
     - name: Push the output
       uses: crazy-max/ghaction-github-pages@v3.1.0

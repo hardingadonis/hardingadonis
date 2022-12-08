@@ -1,20 +1,83 @@
-# Hello! I'm Minh Vương <img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/handwave.gif" width="25">
+<img align="right" src="https://komarev.com/ghpvc/?username=hardingadonis&style=flat&label=visitors">
 
-## 📌 About me
-- 🎓 I'm just a normal student at FPT University
-- 🔮 I'm want to become a software engineer
-- ❤️ Coding, writing novels, listening EDM and anything about Linux
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&center=true&width=250&lines=Hi+There!+%F0%9F%91%8B;I'm+Minh+V%C6%B0%C6%A1ng+%F0%9F%98%8E" alt="Typing SVG" />
+    </a>
+</h1>
 
-## 📖 My Github
+# 📌 About me
+- 🎓 I'm just a normal student at FPT University QN AI Campus.
+- 🔮 I'm want to become a software engineer.
+- ❤️ Coding, writing novels, listening EDM and anything about code.
 
-![Minh Vương's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=tokyonight)
+<div align = "center"> 
+    <a href = "https://www.youtube.com/@adonis.harding" target = "_blank">
+        <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target = "_blank"/>
+    </a>
+    <a href = "https://www.facebook.com/adonis.harding/" target = "_blank">
+        <img src = "https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target = "_blank"/>
+    </a>
+    <a href = "mailto:hardingadonis@gmail.com">
+        <img src = "https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"/>
+    </a>
+    <a href = "https://github.com/hardingadonis">
+        <img src = "https://img.shields.io/badge/Github-%23333?style=for-the-badge&logo=github&logoColor=white" target = "_blank"/>
+    </a>
+</div>
 
-## 🖐️ Contact with me
+# 📖 My Github
 
-<p align="center">
-<a href="https://facebook.com/adonis.harding" target="_blank" rel="noopener noreferrer"><img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/facebook-icon.png" width="50" /></a>
-&nbsp; <a href="https://www.youtube.com/c/hardingadonis" target="_blank" rel="noopener noreferrer"><img src="https://github.com/hardingadonis/hardingadonis/blob/main/imgs/youtube-icon.png" width="50" /></a>
+<h2 align = "center">⚡ Stats ⚡</h2>
+
+<p align = "center">
+    <div align = "center">
+        <a href = "https://github.com/hardingadonis">
+            <img align = "left" width = 375 src = "https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=nightowl"/>
+        </a>
+        <a href = "https://github.com/hardingadonis">
+            <img align = "right" width = 375 src="https://streak-stats.demolab.com?user=hardingadonis&theme=nightowl&date_format=j%2Fn%5B%2FY%5D"/>
+        </a>
+    </div>
+    <br><br><br><br><br><br><br><br>
+    <div align = "center">
+        <a href = "https://github.com/hardingadonis">
+            <img width = 325 align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html&theme=nightowl" />
+        </a>
+    </div>
 </p>
 
-## 💸 Donate me
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://hardingadonis.github.io/sponsor/)
+<div align = "center">
+  <h2>🔥 Contribution 🔥</h2>
+  <br>
+    <a href = "https://github.com/hardingadonis">
+        <img src="https://github.com/hardingadonis/hardingadonis/blob/output/snake-github-profile.svg">
+    </a>
+  <br>
+  <br>
+</div>
+
+
+<h2 align = "center">💻 Repositories 💻</h2>
+
+<p align = "center">
+    <div align = "center">
+        <a href = "https://github.com/hardingadonis/Eyes_Protection_Reminder">
+            <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
+        </a>
+        <a href = "https://github.com/hardingadonis/PRF192-Workshops_and_Assignment">
+            <img align = "right" width = 400 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRF192-Workshops_and_Assignment&theme=nightowl"/>
+        </a>
+    </div>
+    <br><br><br><br><br><br><br><br>
+    <div align = "center">
+    <!--
+        <a href = "https://github.com/hardingadonis/_link_repository_3">
+            <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_3&theme=nightowl"/>
+        </a>
+        <a href = "https://github.com/hardingadonis/_link_repository_4">
+            <img align = "right" width = 400 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_4&theme=nightowl"/>
+        </a>
+    -->
+    </div>
+</p>
