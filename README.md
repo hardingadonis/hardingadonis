@@ -33,10 +33,10 @@
 <p align = "center">
     <div align = "center">
         <a href = "https://github.com/hardingadonis">
-            <img align = "left" width = 375 src = "https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=nightowl"/>
+            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis">
-            <img align = "right" width = 375 src="https://streak-stats.demolab.com?user=hardingadonis&theme=nightowl&date_format=j%2Fn%5B%2FY%5D"/>
+            <img align = "right" width = 380 src="https://streak-stats.demolab.com?user=hardingadonis&theme=nightowl&date_format=j%2Fn%5B%2FY%5D"/>
         </a>
     </div>
     <br><br><br><br><br><br><br><br>
@@ -63,20 +63,20 @@
 <p align = "center">
     <div align = "center">
         <a href = "https://github.com/hardingadonis/Eyes_Protection_Reminder">
-            <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
+            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis/PRF192-Workshops_and_Assignment">
-            <img align = "right" width = 400 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRF192-Workshops_and_Assignment&theme=nightowl"/>
+            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRF192-Workshops_and_Assignment&theme=nightowl"/>
         </a>
     </div>
-    <br><br><br><br><br><br><br><br>
     <!--
+    <br><br><br><br><br><br><br><br>
     <div align = "center">
         <a href = "https://github.com/hardingadonis/_link_repository_3">
-            <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_3&theme=nightowl"/>
+            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_3&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis/_link_repository_4">
-            <img align = "right" width = 400 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_4&theme=nightowl"/>
+            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_4&theme=nightowl"/>
         </a>
     </div>
     -->
