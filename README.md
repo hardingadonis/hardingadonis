@@ -6,7 +6,7 @@
     </a>
 </h1>
 
-# 📌 About me
+## 📌 About me
 - 🎓 I'm just a normal student at FPT University QN AI Campus.
 - 🔮 I'm want to become a software engineer.
 - ❤️ Coding, writing novels, listening EDM and anything about code.
@@ -26,9 +26,9 @@
     </a>
 </div>
 
-# 📖 My Github
+## 📖 My Github
 
-<h2 align = "center">⚡ Stats ⚡</h2>
+<h3 align = "center">⚡ Stats ⚡</h3>
 
 <p align = "center">
     <div align = "center">
@@ -48,7 +48,7 @@
 </p>
 
 <div align = "center">
-  <h2>🔥 Contribution 🔥</h2>
+  <h3>🔥 Contribution 🔥</h3>
   <br>
     <a href = "https://github.com/hardingadonis">
         <img src="https://github.com/hardingadonis/hardingadonis/blob/output/snake-github-profile.svg">
@@ -58,7 +58,7 @@
 </div>
 
 
-<h2 align = "center">💻 Repositories 💻</h2>
+<h3 align = "center">💻 Repositories 💻</h3>
 
 <p align = "center">
     <div align = "center">
@@ -70,14 +70,14 @@
         </a>
     </div>
     <br><br><br><br><br><br><br><br>
-    <div align = "center">
     <!--
+    <div align = "center">
         <a href = "https://github.com/hardingadonis/_link_repository_3">
             <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_3&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis/_link_repository_4">
             <img align = "right" width = 400 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=_link_repository_4&theme=nightowl"/>
         </a>
-    -->
     </div>
+    -->
 </p>
