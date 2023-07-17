@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Generates snake
-      uses: Platane/snk@v2.2.0
+      uses: Platane/snk@v2.2.1
       with:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
