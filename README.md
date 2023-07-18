@@ -71,8 +71,8 @@
     </div>
     <br><br><br><br><br><br><br><br>
     <div align = "center">
-        <a href = "https://github.com/hardingadonis/revanced-auto-build">
-            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=revanced-auto-build&theme=nightowl"/>
+        <a href = "https://github.com/hardingadonis/DBI202-Labs_and_Assignment">
+            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=DBI202-Labs_and_Assignment&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis/PRO192-Workshops_and_Assignment">
             <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRO192-Workshops_and_Assignment&theme=nightowl"/>
