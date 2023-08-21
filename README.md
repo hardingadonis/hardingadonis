@@ -62,11 +62,11 @@
 
 <p align = "center">
     <div align = "center">
-        <a href = "https://github.com/hardingadonis/Eyes_Protection_Reminder">
-            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
+        <a href = "https://github.com/hardingadonis/zhi">
+            <img align = "left" width = 380 src = "https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hardingadonis&repo=zhi&theme=nightowl"/>
         </a>
-        <a href = "https://github.com/hardingadonis/PRF192-Workshops_and_Assignment">
-            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRF192-Workshops_and_Assignment&theme=nightowl"/>
+        <a href = "https://github.com/hardingadonis/Eyes_Protection_Reminder">
+            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
         </a>
     </div>
     <br><br><br><br><br><br><br><br>
