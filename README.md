@@ -7,7 +7,7 @@
 </h1>
 
 ## 📌 About me
-- 🎓 I'm just a normal student at FPT University QN AI Campus.
+- 🎓 I'm just a normal student at FPT University Quy Nhơn AI Campus.
 - 🔮 I'm want to become a software engineer.
 - ❤️ Coding, writing novels, listening EDM and anything about code.
 
@@ -33,7 +33,7 @@
 <p align = "center">
     <div align = "center">
         <a href = "https://github.com/hardingadonis">
-            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=nightowl"/>
+            <img align = "left" width = 380 src = "https://github-readme-stats-sigma-five.vercel.app/api?username=hardingadonis&include_all_commits=true&show_icons=true&theme=nightowl"/>
         </a>
         <a href = "https://github.com/hardingadonis">
             <img align = "right" width = 380 src="https://streak-stats.demolab.com?user=hardingadonis&theme=nightowl&date_format=j%2Fn%5B%2FY%5D"/>
@@ -42,7 +42,7 @@
     <br><br><br><br><br><br><br><br>
     <div align = "center">
         <a href = "https://github.com/hardingadonis">
-            <img width = 325 align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html&theme=nightowl" />
+            <img width = 325 align = "center" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html&theme=nightowl" />
         </a>
     </div>
 </p>
@@ -56,26 +56,3 @@
   <br>
   <br>
 </div>
-
-
-<h3 align = "center">💻 Repositories 💻</h3>
-
-<p align = "center">
-    <div align = "center">
-        <a href = "https://github.com/hardingadonis/zhi">
-            <img align = "left" width = 380 src = "https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hardingadonis&repo=zhi&theme=nightowl"/>
-        </a>
-        <a href = "https://github.com/hardingadonis/Eyes_Protection_Reminder">
-            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=Eyes_Protection_Reminder&theme=nightowl"/>
-        </a>
-    </div>
-    <br><br><br><br><br><br><br><br>
-    <div align = "center">
-        <a href = "https://github.com/hardingadonis/DBI202-Labs_and_Assignment">
-            <img align = "left" width = 380 src = "https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=DBI202-Labs_and_Assignment&theme=nightowl"/>
-        </a>
-        <a href = "https://github.com/hardingadonis/PRO192-Workshops_and_Assignment">
-            <img align = "right" width = 380 src="https://github-readme-stats.vercel.app/api/pin/?username=hardingadonis&repo=PRO192-Workshops_and_Assignment&theme=nightowl"/>
-        </a>
-    </div>
-</p>
