@@ -1,5 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=hardingadonis&style=flat&label=visitors">
-
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&center=true&width=250&lines=Hi+There!+%F0%9F%91%8B;I'm+Minh+V%C6%B0%C6%A1ng+%F0%9F%98%8E" alt="Typing SVG" />
