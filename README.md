@@ -44,9 +44,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=hardingadonis&hide=contribs"/>
     </picture>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=css,html&theme=dark" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=css,html&theme=light" media="(prefers-color-scheme: light)"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=css,html"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html,css&theme=dark" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html,css&theme=light" media="(prefers-color-scheme: light)"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html,css"/>
     </picture>
 </div>
 
