@@ -32,7 +32,7 @@
     <p align="left">
         <a href="https://linkedin.com/in/hardingadonis" target="blank"><img align="center" src="imgs/linkedin.png" alt="hardingadonis" width="40" /></a>
         <a href="https://fb.com/adonis.harding" target="blank"><img align="center" src="imgs/facebook.png" alt="adonis.harding" width="40" /></a>
-        <a href="https://www.youtube.com/c/adonis.harding" target="blank"><img align="center" src="imgs/youtube.png" alt="adonis.harding" width="40" /></a>
+        <a href="https://www.youtube.com/@adonis.harding" target="blank"><img align="center" src="imgs/youtube.png" alt="adonis.harding" width="40" /></a>
     </p>
 </div>
 
