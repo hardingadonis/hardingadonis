@@ -9,7 +9,7 @@
         <img src="https://komarev.com/ghpvc/?username=hardingadonis&label=Profile%20views&color=0e75b6&style=flat" alt="hardingadonis" />
     </div>
     <div>
-        <img align="right" atl="Banner" width="400" src="imgs/Banner.gif"/>
+        <img align="right" atl="Banner" width="480" src="imgs/peaceful-banner.gif"/>
     </div>
 </div>
 
