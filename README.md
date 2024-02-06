@@ -52,6 +52,42 @@
 	</picture>
 </div>
 
+<details>
+	<summary>
+		<h3>My knowledges</h3>
+	</summary>
+	<div align="center">
+		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
+  	<a href="https://github.com/hardingadonis">
+    	<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,dotnet,heroku,hibernate,maven" />
+  	</a>
+	</div>
+	<div align="center">
+		<h3>💾💾 Database 💾💾</h3>
+  	<a href="https://github.com/hardingadonis">
+    	<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
+  	</a>
+	</div>
+	<div align="center">
+		<h3>🎨🎨 FrontEnd 🎨🎨</h3>
+  	<a href="https://github.com/hardingadonis">
+    	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
+  	</a>
+	</div>
+	<div align="center">
+		<h3>♾️♾️ DevOps ♾️♾️</h3>
+  	<a href="https://github.com/hardingadonis">
+    	<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,jenkins,kubernetes" />
+  	</a>
+	</div>
+	<div align="center">
+		<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
+  	<a href="https://github.com/hardingadonis">
+    	<img src="https://skillicons.dev/icons?i=git,github,cmake,godot,lua,md,postman,jest,vercel,vite,vitest,vscode" />
+  	</a>
+	</div>
+</details>
+
 ### Support me:
 
 <div align="center">
