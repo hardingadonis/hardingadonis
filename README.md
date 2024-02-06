@@ -1,19 +1,19 @@
 <h1 align="center">
-    <a href="https://github.com/hardingadonis">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Minh+V%C6%B0%C6%A1ng!+%E2%99%89" alt="Typing SVG" />
-    </a>
+	<a href="https://github.com/hardingadonis">
+		<img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Minh+V%C6%B0%C6%A1ng!+%E2%99%89" alt="Typing SVG" />
+	</a>
 </h1>
 
 <div align="center">
-    <div align="left">
-        <img src="https://komarev.com/ghpvc/?username=hardingadonis&label=Profile%20views&color=0e75b6&style=flat" alt="hardingadonis" />
-    </div>
-    <div>
-        <img align="right" atl="Banner" width="480" src="imgs/peaceful-banner.gif"/>
-    </div>
+	<div align="left">
+		<img src="https://komarev.com/ghpvc/?username=hardingadonis&label=Profile%20views&color=0e75b6&style=flat" alt="hardingadonis" />
+	</div>
+	<div>
+		<img align="right" atl="Banner" width="480" src="imgs/peaceful-banner.gif"/>
+	</div>
 </div>
 
-### About me:
+### About me
 
 - 🎓 I'm a student at FPT University Quy Nhơn AI Campus.
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **hardingadonis@gmail.com**
 
-### Connect with me:
+### Connect with me
 
 <div>
 	<p align="left">
@@ -37,20 +37,25 @@
 	</p>
 </div>
 
-### My Github stats:
-
-<div align="center">
-	<picture>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&hide=contribs&theme=dark" media="(prefers-color-scheme: dark)"/>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&hide=contribs&theme=light" media="(prefers-color-scheme: light)"/>
-		<img src="https://github-readme-stats.vercel.app/api?username=hardingadonis&hide=contribs"/>
-	</picture>
-	<picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html%2Ccss&theme=dark" media="(prefers-color-scheme: dark)"/>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html%2Ccss&theme=light" media="(prefers-color-scheme: light)"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&layout=compact&hide=html%2Ccss"/>
-	</picture>
-</div>
+<details>
+	<summary>
+		<h3>My Github stats</h3>
+	</summary>
+	<div align="center">
+		<picture>
+			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=dark" media="(prefers-color-scheme: dark)"/>
+			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=light" media="(prefers-color-scheme: light)"/>
+			<img src="https://github-readme-stats.vercel.app/api?username=hardingadonis"/>
+		</picture>
+	</div>
+	<div align="center">
+		<picture>
+			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss&theme=dark" media="(prefers-color-scheme: dark)"/>
+			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss&theme=light" media="(prefers-color-scheme: light)"/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss"/>
+		</picture>
+		</div>
+</details>
 
 <details>
 	<summary>
@@ -77,7 +82,7 @@
 	<div align="center">
 		<h3>♾️♾️ DevOps ♾️♾️</h3>
   	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,jenkins,kubernetes" />
+    	<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,jenkins,kubernetes" />
   	</a>
 	</div>
 	<div align="center">
