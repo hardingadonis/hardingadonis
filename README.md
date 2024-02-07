@@ -64,7 +64,7 @@
 	<div align="center">
 		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
   	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,dotnet,heroku,hibernate,maven" />
+    	<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,dotnet,hibernate,maven" />
   	</a>
 	</div>
 	<div align="center">
@@ -82,7 +82,7 @@
 	<div align="center">
 		<h3>♾️♾️ DevOps ♾️♾️</h3>
   	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,jenkins,kubernetes" />
+    	<img src="https://skillicons.dev/icons?i=aws,azure,heroku,docker,githubactions,jenkins,kubernetes" />
   	</a>
 	</div>
 	<div align="center">
