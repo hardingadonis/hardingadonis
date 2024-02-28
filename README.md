@@ -39,7 +39,7 @@
 
 <details>
 	<summary>
-		<h3>My Github stats</h3>
+		<b>My Github stats</b>
 	</summary>
 	<div align="center">
 		<picture>
@@ -59,7 +59,7 @@
 
 <details>
 	<summary>
-		<h3>My knowledges</h3>
+		<b>My knowledges</b>
 	</summary>
 	<div align="center">
 		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
