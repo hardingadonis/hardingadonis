@@ -21,9 +21,9 @@
 
 - ❤️ Coding, writing novels, listening to EDM, and anything about code.
 
-- 🔭 I’m currently learning **Spring Framework**
+- 🔭 I’m currently learning **.NET**
 
-- 💬 Ask me about **c, c++, java**
+- 💬 Ask me about **c++, java, c#**
 
 - 📫 How to reach me **hardingadonis@gmail.com**
 
