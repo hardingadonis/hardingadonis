@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently learning **.NET**
 
-- 💬 Ask me about **c++, java, c#**
+- 💬 Ask me about **C#, Java**
 
 - 📫 How to reach me **hardingadonis@gmail.com**
 
@@ -48,13 +48,6 @@
 			<img src="https://github-readme-stats.vercel.app/api?username=hardingadonis"/>
 		</picture>
 	</div>
-	<div align="center">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss&theme=dark" media="(prefers-color-scheme: dark)"/>
-			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss&theme=light" media="(prefers-color-scheme: light)"/>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardingadonis&hide=html%2Ccss"/>
-		</picture>
-		</div>
 </details>
 
 <details>
@@ -63,33 +56,27 @@
 	</summary>
 	<div align="center">
 		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
-  	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,dotnet,hibernate,maven" />
-  	</a>
+  		<a href="https://github.com/hardingadonis">
+    		<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
+  		</a>
 	</div>
 	<div align="center">
 		<h3>💾💾 Database 💾💾</h3>
-  	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
-  	</a>
-	</div>
-	<div align="center">
-		<h3>🎨🎨 FrontEnd 🎨🎨</h3>
-  	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
-  	</a>
+  		<a href="https://github.com/hardingadonis">
+    		<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite" />
+  		</a>
 	</div>
 	<div align="center">
 		<h3>♾️♾️ DevOps ♾️♾️</h3>
-  	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=aws,azure,heroku,docker,githubactions,jenkins,kubernetes" />
-  	</a>
+  		<a href="https://github.com/hardingadonis">
+    		<img src="https://skillicons.dev/icons?i=githubactions,docker" />
+  		</a>
 	</div>
 	<div align="center">
 		<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
-  	<a href="https://github.com/hardingadonis">
-    	<img src="https://skillicons.dev/icons?i=git,github,cmake,godot,lua,md,postman,jest,vercel,vite,vitest,vscode" />
-  	</a>
+  		<a href="https://github.com/hardingadonis">
+    		<img src="https://skillicons.dev/icons?i=git,github,cmake,postman" />
+  		</a>
 	</div>
 </details>
 
