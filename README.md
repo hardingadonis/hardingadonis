@@ -21,9 +21,9 @@
 
 - ❤️ Coding, writing novels, listening to EDM, and anything about code.
 
-- 🔭 I’m currently learning **.NET**
+- 🔭 I’m currently learning **Node.js**
 
-- 💬 Ask me about **C#, Java**
+- 💬 Ask me about **TypeScript, C#, Java**
 
 - 📫 How to reach me **hardingadonis@gmail.com**
 
@@ -57,7 +57,7 @@
 	<div align="center">
 		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
+    		<img src="https://skillicons.dev/icons?i=nestjs,dotnet,spring" />
   		</a>
 	</div>
 	<div align="center">
@@ -69,13 +69,13 @@
 	<div align="center">
 		<h3>♾️♾️ DevOps ♾️♾️</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=githubactions,docker" />
+    		<img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" />
   		</a>
 	</div>
 	<div align="center">
 		<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=git,github,cmake,postman" />
+    		<img src="https://skillicons.dev/icons?i=git,github,cmake,linux" />
   		</a>
 	</div>
 </details>
