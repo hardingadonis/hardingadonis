@@ -55,15 +55,15 @@
 		<b>My knowledges</b>
 	</summary>
 	<div align="center">
-		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
+		<h3>⚙️⚙️ Technical ⚙️⚙️</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=nestjs,dotnet,spring" />
+    		<img src="https://skillicons.dev/icons?i=nestjs,dotnet,nextjs" />
   		</a>
 	</div>
 	<div align="center">
 		<h3>💾💾 Database 💾💾</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite" />
+    		<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma" />
   		</a>
 	</div>
 	<div align="center">
@@ -75,7 +75,7 @@
 	<div align="center">
 		<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
   		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=git,github,cmake,linux" />
+    		<img src="https://skillicons.dev/icons?i=git,github,cmake,arch" />
   		</a>
 	</div>
 </details>
