@@ -15,17 +15,17 @@
 
 ### About me
 
-- 🎓 I'm a student at FPT University Quy Nhơn AI Campus.
+- 🎓 I graduated from **FPT University Quy Nhơn AI Campus** (2021 - 2025 | GPA: 3.3/4)
 
-- 🔮 I want to become a software engineer.
+- 🔮 I want to become a **Backend Developer**
 
-- ❤️ Coding, writing novels, listening to EDM, and anything about code.
+- ❤️ Coding, writing novels, listening to EDM, and anything about code
 
-- 🔭 I’m currently learning **Node.js**
+- 🔭 I’m currently working with **.NET / Node.js**
 
-- 💬 Ask me about **TypeScript, C#, Java**
+- 💬 Ask me about **TypeScript, C#**
 
-- 📫 How to reach me **hardingadonis@gmail.com**
+- 📫 To contact me, please email **hardingadonis@gmail.com** or **vuonglm.work@gmail.com**
 
 ### Connect with me
 
@@ -37,48 +37,42 @@
 	</p>
 </div>
 
-<details>
-	<summary>
-		<b>My Github stats</b>
-	</summary>
-	<div align="center">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=dark" media="(prefers-color-scheme: dark)"/>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=light" media="(prefers-color-scheme: light)"/>
-			<img src="https://github-readme-stats.vercel.app/api?username=hardingadonis"/>
-		</picture>
-	</div>
-</details>
+### My Github stats
 
-<details>
-	<summary>
-		<b>My knowledges</b>
-	</summary>
-	<div align="center">
-		<h3>⚙️⚙️ Technical ⚙️⚙️</h3>
-  		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=nestjs,dotnet,nextjs" />
-  		</a>
-	</div>
-	<div align="center">
-		<h3>💾💾 Database 💾💾</h3>
-  		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma" />
-  		</a>
-	</div>
-	<div align="center">
-		<h3>♾️♾️ DevOps ♾️♾️</h3>
-  		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" />
-  		</a>
-	</div>
-	<div align="center">
-		<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
-  		<a href="https://github.com/hardingadonis">
-    		<img src="https://skillicons.dev/icons?i=git,github,cmake,arch" />
-  		</a>
-	</div>
-</details>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=dark" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=light" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hardingadonis"/>
+  </picture>
+</div>
+
+### My knowledges
+
+<div align="center">
+	<h3>⚙️⚙️ Technical ⚙️⚙️</h3>
+  <a href="https://github.com/hardingadonis">
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,nestjs,nextjs" />
+  </a>
+</div>
+<div align="center">
+	<h3>💾💾 Database 💾💾</h3>
+  <a href="https://github.com/hardingadonis">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,sqlite,prisma" />
+  </a>
+</div>
+<div align="center">
+	<h3>♾️♾️ DevOps ♾️♾️</h3>
+  <a href="https://github.com/hardingadonis">
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" />
+  </a>
+</div>
+<div align="center">
+	<h3>👨‍💻👨‍💻 Others 👨‍💻👨‍💻</h3>
+  <a href="https://github.com/hardingadonis">
+    <img src="https://skillicons.dev/icons?i=git,github,cmake,arch,raspberrypi,cloudflare" />
+  </a>
+</div>
 
 ### Support me:
 
